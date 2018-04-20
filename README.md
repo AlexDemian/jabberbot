@@ -10,7 +10,7 @@ https://redis.io/
 3) Python/xmpp library
 
 Usage:
-After installation of all libreries specify your xmpp-account settings at config.py
+After installation of all libraries specify your xmpp-account settings at config.py
 
 Then run xmppbot.py in loop:
 > python xmppbot.py
