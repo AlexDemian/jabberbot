@@ -17,5 +17,10 @@ Then run xmppbot.py in loop:
 
 And try to send and receive messages via commandline:
 
-> redis-cli lpop recv_mess # to receive message
+To receive message:
+
+> redis-cli lpop recv_mess
+
+To send message:
+
 > redis-cli lpush send_mess username@message
