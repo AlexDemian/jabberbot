@@ -1,7 +1,7 @@
 Simple python xmpp bot.
 Redis used as fast buffer
 
-Requairements:
+Requirements:
 1) python 2.7
 
 2) Redis
